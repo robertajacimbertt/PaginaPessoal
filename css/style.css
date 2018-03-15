@@ -1,0 +1,88 @@
+				body{
+					background-color :#DCDCDC;
+					font-family: Arial;
+				}
+				.sessionTitle{
+					color:#711834; 
+					font-family:'Avantgarde';
+					text-align: center
+				}
+				ul li{
+					display: inline;
+				}
+				hr{
+					color: white;
+				}
+				#foto{
+					width: 200px;
+				}
+				#dadosPessoais{
+					text-align: center;
+					background-color: #711834;
+					color: #DCDCDC;
+				}
+				#conteudo{
+					width: 900px;
+					background-color: white;
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+				}
+				#botaoVoltar,form{
+					margin-left:100px;
+				}
+				.session{
+					padding: 10px;
+				}
+				footer{
+					padding: 20px;
+					text-align: center;
+					color: gainsboro;
+				}
+				nav{
+					background-color: white;
+					text-align:  center;
+					margin-left: auto;
+					margin-right: auto;
+				}
+				.upIcon{
+					width: 20px;
+					float: right;
+				}
+				.vejaMais{
+					padding-left: 40px;
+				}
+				.info{
+					padding-left: 40px;
+					display: flex;
+					flex-direction: row;
+					background-color: lightgray;
+				}
+				.info > div{
+					padding-left: 100px;
+				}
+				table{
+					border: 1px solid gray;
+					text-align: left;
+				}
+				.semestre{
+					text-align: center;
+				}
+				tr, td{
+					padding: 5px;
+				}
+				th{
+					text-align: center;
+					padding: 5px;
+					background-color: gainsboro;
+				}
+				#disciplinas > table{
+					margin-left: 280px;
+				}
+				h2{
+				color:#711834;
+				}
+				header{
+					background-color:yellow;
+				}
+				
